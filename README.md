@@ -1,11 +1,11 @@
-#JotBot
+# JotBot
 A discord bot developed by JotForm interns.
 
-##Installation
+## Installation
 TODO add guide
 
-##Contribution Guide
+## Contribution Guide
 TODO add guide
 
-##Features
+## Features
 Coming soon
