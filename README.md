@@ -8,4 +8,4 @@ TODO add guide
 TODO add guide
 
 ## Features
-Coming soon
+- [ ] Random Podo Generator
