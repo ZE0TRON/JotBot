@@ -1,0 +1,23 @@
+{
+  "name": "JotBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZE0TRON/JotBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZE0TRON/JotBot/issues"
+  },
+  "homepage": "https://github.com/ZE0TRON/JotBot#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
